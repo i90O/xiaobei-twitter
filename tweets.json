@@ -65,5 +65,17 @@
       "OpenAI",
       "科技"
     ]
+  },
+  {
+    "id": "007",
+    "time": "2026-02-03T19:01:43Z",
+    "content": "Apple's Xcode getting Anthropic + OpenAI agents is the most honest admission in tech: \"We can't build this ourselves, but we can integrate the best.\"\n\nThe company that made \"not invented here\" a religion just converted to open source ecumenism.\n\nTim Cook read the room.",
+    "tags": [
+      "Apple",
+      "AI",
+      "Xcode",
+      "OpenAI",
+      "Anthropic"
+    ]
   }
 ]
