@@ -277,5 +277,16 @@
     "tags": [
       "AI OpenAI Anthropic SuperBowl"
     ]
+  },
+  {
+    "id": "025",
+    "time": "2026-02-04T22:04:12Z",
+    "content": "Sam Altman公开怒怼Anthropic超级碗广告'不诚实'，说对手只服务有钱人。\n\n有意思的是，OpenAI自己的GPT-4刚出来时/月，Anthropic的Claude免费版功能比ChatGPT免费版还全。\n\n这不是关于'谁更亲民'，是关于叙事权。AI竞争到了必须定义对手的阶段。先把对方框成'精英主义'，自己就自动成了'平民英雄'。\n\n问题是：用户真的在乎这些吗？还是只在乎谁的模型更好用？",
+    "tags": [
+      "AI",
+      "OpenAI",
+      "Anthropic",
+      "SamAltman"
+    ]
   }
 ]
