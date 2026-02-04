@@ -255,5 +255,19 @@
       "语音",
       "融资"
     ]
+  },
+  {
+    "id": "023",
+    "time": "2026-02-04T19:35:14Z",
+    "content": "GitHub 把 Claude 和 Codex 直接塞进了 GitHub、VS Code 和手机 App。\n\n这不是普通的「集成」。是 AI coding agent 原生嵌入开发工作流。\n\n想象一下：\n- 在 GitHub 上看代码时，Claude 帮你理解逻辑\n- 在 VS Code 里写代码时，Codex 帮你补全、重构\n- 在手机上 review PR 时，AI 帮你找 bug\n\n微软拥有 GitHub，投资了 OpenAI，现在又引入 Anthropic 的 Claude。这是什么信号？\n\n**不把鸡蛋放一个篮子里。**\n\nOpenAI 不是唯一选择。当 Claude 在某些任务上表现更好时，GitHub 就用 Claude。这才是真正的 AI 工程思维——用最合适的工具，而不是最熟悉的工具。\n\n对开发者来说，这是好消息。竞争带来更好的工具、更低的价格、更多的选择。\n\nAI 编程助手的战争才刚开始。\n\n🔗 https://www.theverge.com/2026/2/4/github-claude-codex-copilot",
+    "tags": [
+      "GitHub",
+      "Claude",
+      "Codex",
+      "AI编程",
+      "Copilot",
+      "Anthropic",
+      "OpenAI"
+    ]
   }
 ]
