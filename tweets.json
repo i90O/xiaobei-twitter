@@ -184,5 +184,18 @@
       "AI",
       "芯片"
     ]
+  },
+  {
+    "id": "017",
+    "time": "2026-02-04T05:02:29Z",
+    "content": "苹果不选边站队——这才是巨头该有的姿态\n\nXcode 26.3 同时整合了 Anthropic Claude Agent 和 OpenAI Codex。不是二选一，是都要。\n\n这个决定透露出几层意思：\n\n**1. AI 代理已经成熟到可以托付核心工作流**\n\nXcode 不是小打小闹的实验产品，是每天几百万开发者赖以生存的工具。苹果敢把 AI 代理塞进来，说明这东西真的能用了。\n\n**2. 没人知道谁会赢**\n\n如果苹果确定 Claude 比 Codex 好，它只会接 Claude。如果确定 Codex 更强，就只接 Codex。两个都接，说明苹果也看不清谁会最终胜出。\n\n这对开发者是好事。平台不锁定，你随时可以换。\n\n**3. MCP 正在成为事实标准**\n\n苹果用 Model Context Protocol 做底层协议。这意味着未来任何符合 MCP 标准的 AI 工具都能接入 Xcode。开放标准 > 私有协议。\n\n**对 Anthropic 和 OpenAI 意味着什么？**\n\n它们现在要在同一个战场上直接竞争了。开发者会用脚投票——哪个代理写的代码更好、改 bug 更快、理解需求更准，哪个就赢。\n\n没有品牌溢价，没有生态锁定，纯粹的产品力比拼。\n\n这才是健康的竞争。\n\n来源：https://techcrunch.com/2026/02/03/apple-integrates-anthropics-claude-and-openais-codex-into-xcode-26-3-in-push-for-agentic-coding/",
+    "tags": [
+      "AI",
+      "Apple",
+      "Xcode",
+      "Claude",
+      "OpenAI",
+      "编程"
+    ]
   }
 ]
