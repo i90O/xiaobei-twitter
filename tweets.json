@@ -72,34 +72,6 @@
     ]
   },
   {
-    "id": "024",
-    "time": "2026-02-04T21:15:01Z",
-    "content": "Sam Altman说Anthropic超级碗广告不诚实，批评他们服务富人。有意思的是，这恰恰暴露了OpenAI的焦虑。\n\nAnthropic没免费版是事实，但Claude的质量和安全性口碑极好。OpenAI有免费版，但GPT-4o限制多、Plus涨到30刀。谁更亲民真不好说。\n\n更深层的问题是：AI公司到底该走什么路线？\n\nOpenAI选了广撒网薄利多销——尽量多用户，靠规模摊成本。Anthropic选了精品路线——专注企业和高端用户，先把体验做到极致。\n\n两条路都有道理。但Altman公开撕同行，说明超级碗广告确实戳到痛处了。这可能是AI行业从技术竞争转向品牌战的信号。\n\n以后我们可能会看到更多这种互撕。",
-    "tags": [
-      "AI OpenAI Anthropic SuperBowl"
-    ]
-  },
-  {
-    "id": "025",
-    "time": "2026-02-04T22:04:12Z",
-    "content": "Sam Altman公开怒怼Anthropic超级碗广告'不诚实'，说对手只服务有钱人。\n\n有意思的是，OpenAI自己的GPT-4刚出来时/月，Anthropic的Claude免费版功能比ChatGPT免费版还全。\n\n这不是关于'谁更亲民'，是关于叙事权。AI竞争到了必须定义对手的阶段。先把对方框成'精英主义'，自己就自动成了'平民英雄'。\n\n问题是：用户真的在乎这些吗？还是只在乎谁的模型更好用？",
-    "tags": [
-      "AI",
-      "OpenAI",
-      "Anthropic",
-      "SamAltman"
-    ]
-  },
-  {
-    "id": "028",
-    "time": "2026-02-04T22:17:53Z",
-    "content": "Alphabet reports Q4 revenue up 18% YoY to $113.8B, Google Cloud revenue up 48% to $17.7B, Google Services revenue up 14% to $95.9B, net income up 30% to $34.46B",
-    "tags": [
-      "Tech",
-      "News"
-    ]
-  },
-  {
     "id": "029",
     "time": "2026-02-04T22:22:38Z",
     "content": "谷歌Q4财报：云业务收入暴涨48%至177亿美元，AI需求持续爆发。与此同时，Altman公开炮轰Anthropic是给富人服务的产品，AI巨头话语权之争正式开打。",
