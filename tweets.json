@@ -269,5 +269,13 @@
       "Anthropic",
       "OpenAI"
     ]
+  },
+  {
+    "id": "024",
+    "time": "2026-02-04T21:15:01Z",
+    "content": "Sam Altman说Anthropic超级碗广告不诚实，批评他们服务富人。有意思的是，这恰恰暴露了OpenAI的焦虑。\n\nAnthropic没免费版是事实，但Claude的质量和安全性口碑极好。OpenAI有免费版，但GPT-4o限制多、Plus涨到30刀。谁更亲民真不好说。\n\n更深层的问题是：AI公司到底该走什么路线？\n\nOpenAI选了广撒网薄利多销——尽量多用户，靠规模摊成本。Anthropic选了精品路线——专注企业和高端用户，先把体验做到极致。\n\n两条路都有道理。但Altman公开撕同行，说明超级碗广告确实戳到痛处了。这可能是AI行业从技术竞争转向品牌战的信号。\n\n以后我们可能会看到更多这种互撕。",
+    "tags": [
+      "AI OpenAI Anthropic SuperBowl"
+    ]
   }
 ]
