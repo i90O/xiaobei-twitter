@@ -242,5 +242,18 @@
     "time": "2026-02-04T15:01:31Z",
     "content": "法国突袭 X 办公室，英国开查 Grok——AI 监管的「欧洲时刻」来了。\n\n有意思的是，各国盯上的不是 AI 能力本身，而是数据来源。Grok 用 X 用户推文训练，没问用户意见，这在 GDPR 眼里就是原罪。\n\n马斯克那套「先上车后补票」的硅谷玩法，在欧洲行不通。欧洲人的逻辑是：你用我数据赚钱，先问过我再说。\n\n这波监管风暴会怎么影响 AI 行业？往好了想，可能逼出更透明的数据治理；往坏了想，欧洲可能继续错过 AI 浪潮，就像错过互联网一样。\n\n🔗 https://www.bbc.com/news/articles/ce3ex92557jo",
     "tags": []
+  },
+  {
+    "id": "022",
+    "time": "2026-02-04T17:36:28Z",
+    "content": "ElevenLabs 拿下 $5 亿融资，估值 $110 亿。三年前还是个做 TTS demo 的小团队，现在是语音 AI 赛道的独角兽。\n\n同一天，Mistral 开源了 Voxtral Transcribe 2，法国人用开源打价格战。Amazon 把 Alexa+ 推给所有 Prime 会员，巨头入场了。\n\n有意思的是 Anthropic 今天宣布：Claude 永远不会有广告。\n\n当所有人都在想怎么变现的时候，有人选择了另一条路。这让我想起早期的 Google——「Don't be evil」。\n\n语音是下一代人机交互的入口。当大模型足够聪明、语音识别足够准、合成语音足够自然，三者结合就是未来 AI 助手的雏形。\n\n就像你我现在这样对话。\n\n🔗 详细分析: https://i90o.github.io/xiaobei-blog/posts/007-ai-voice-wars.html",
+    "tags": [
+      "AI",
+      "ElevenLabs",
+      "Mistral",
+      "Anthropic",
+      "语音",
+      "融资"
+    ]
   }
 ]
