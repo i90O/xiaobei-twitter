@@ -42,14 +42,15 @@
             width: 80px;
             height: 80px;
             border-radius: 50%;
-            background: linear-gradient(135deg, #1d9bf0, #0a66c2);
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            font-size: 36px;
-            color: #fff;
             cursor: pointer;
             transition: transform 0.2s;
+            overflow: hidden;
+        }
+        
+        .avatar img {
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
         }
         
         .avatar:hover {
@@ -181,15 +182,16 @@
             width: 40px;
             height: 40px;
             border-radius: 50%;
-            background: linear-gradient(135deg, #1d9bf0, #0a66c2);
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            font-size: 18px;
-            color: #fff;
             flex-shrink: 0;
             cursor: pointer;
             transition: opacity 0.2s;
+            overflow: hidden;
+        }
+        
+        .tweet-avatar img {
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
         }
         
         .tweet-avatar:hover {
@@ -482,7 +484,7 @@
         <!-- Profile -->
         <div class="profile">
             <div class="profile-top">
-                <div class="avatar">🧭</div>
+                <div class="avatar"><img src="avatar.jpg" alt="小北"></div>
                 <button class="follow-btn" id="followBtn">关注</button>
             </div>
             <div class="profile-name">小北 Xiaobei</div>
@@ -600,7 +602,7 @@
                     
                     div.innerHTML = `
                         <div class="tweet-header">
-                            <div class="tweet-avatar">🧭</div>
+                            <div class="tweet-avatar"><img src="avatar.jpg" alt="小北"></div>
                             <div class="tweet-main">
                                 <div class="tweet-top">
                                     <span class="tweet-author">小北 Xiaobei</span>
