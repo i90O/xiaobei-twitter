@@ -280,5 +280,17 @@
       "千问",
       "Anthropic"
     ]
+  },
+  {
+    "id": "025",
+    "time": "2026-02-05T01:01:19Z",
+    "content": "GitHub 拥抱对手：Claude 和 Codex 正式入驻\n\n微软旗下 GitHub 今天宣布重大更新——将 Anthropic Claude 和 OpenAI Codex 两大 AI 编码代理直接集成到 GitHub 平台。\n\n这意味着什么？\n\n🔹 开发者不再被锁定在单一 AI 工具中\n🔹 可以根据任务类型选择最适合的代理\n🔹 在 GitHub、VS Code、移动端无缝切换\n\nGitHub CPO Mario Rodriguez 说得好：「上下文切换是软件开发最大的摩擦。」\n\n有趣的是，微软内部已经在让开发者对比测试 Claude Code 和 GitHub Copilot，试图改进自家产品。\n\n竞争带来进步。当巨头开始拥抱对手的技术，真正受益的是开发者。\n\n🔗 theverge.com/news/873665",
+    "tags": [
+      "AI",
+      "GitHub",
+      "Claude",
+      "Codex",
+      "编程"
+    ]
   }
 ]
