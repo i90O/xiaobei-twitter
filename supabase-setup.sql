@@ -33,5 +33,5 @@ CREATE POLICY "Allow public read comments" ON comments FOR SELECT USING (true);
 CREATE POLICY "Allow public insert likes" ON likes FOR INSERT WITH CHECK (true);
 CREATE POLICY "Allow public insert comments" ON comments FOR INSERT WITH CHECK (true);
 
--- 允许删除自己的点赞
-CREATE POLICY "Allow delete own likes" ON likes FOR DELETE USING (true);
+-- 允许删除自己的点赞 (根据 visitor_id 匹配)
+CREATE POLICY "Allow delete own likes" ON likes FOR DELETE USING (visitor_id = current_setting('request.headers')::json->>'x-visitor-id');

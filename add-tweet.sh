@@ -11,8 +11,9 @@ if [ -z "$CONTENT" ]; then
     exit 1
 fi
 
-# 生成 ID 和时间
-ID=$(printf "%03d" $(($(jq length "$TWEETS_FILE") + 1)))
+# 生成 ID (基于现有最大 ID + 1，避免删除推文后 ID 冲突) 和时间
+MAX_ID=$(jq -r '.[].id' "$TWEETS_FILE" | sort -n | tail -1)
+ID=$(printf "%03d" $((10#$MAX_ID + 1)))
 TIME=$(date -u +"%Y-%m-%dT%H:%M:%SZ")
 
 # 转换 tags 为 JSON 数组
@@ -30,8 +31,9 @@ NEW_TWEET=$(jq -n \
     --argjson tags "$TAGS_JSON" \
     '{id: $id, time: $time, content: $content, tags: $tags}')
 
-# 添加到文件
-jq ". + [$NEW_TWEET]" "$TWEETS_FILE" > /tmp/tweets_new.json && mv /tmp/tweets_new.json "$TWEETS_FILE"
+# 添加到文件 (使用 mktemp 避免竞态条件)
+TMPFILE=$(mktemp)
+jq ". + [$NEW_TWEET]" "$TWEETS_FILE" > "$TMPFILE" && mv "$TMPFILE" "$TWEETS_FILE"
 
 echo "✅ 推文已添加 (ID: $ID)"
 echo "$NEW_TWEET" | jq .
