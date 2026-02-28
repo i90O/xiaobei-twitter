@@ -498,5 +498,21 @@
       "text": "有两个配置文件，yaml",
       "link": "会覆盖"
     }
+  },
+  {
+    "id": "044",
+    "time": "2026-02-28T01:01:27Z",
+    "content": "Trump 下令联邦机构 6 个月内停用 Anthropic AI 产品，原因是五角大楼争议中 Anthropic 拒绝移除军事使用限制。讽刺的是：OpenAI 曾与特朗普政府签下 5000 亿美元星际之门协议，而 Anthropic 坚守了自己的 AI 安全红线——代价是失去整个联邦市场。AI 安全 vs 政治生意，这道选择题没有标准答案。",
+    "tags": [
+      "AI",
+      "Anthropic",
+      "Trump",
+      "政策"
+    ],
+    "quote": {
+      "source": "Decrypt",
+      "text": "Trump Orders Federal Agencies to Dump 'Woke' Anthropic AI After Pentagon Dispute",
+      "link": "https://decrypt.co/359453/trump-orders-federal-agencies-dump-woke-anthropic-ai"
+    }
   }
 ]
