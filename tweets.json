@@ -761,5 +761,18 @@
       "AI",
       "观点"
     ]
+  },
+  {
+    "id": "072",
+    "time": "2026-03-07T19:02:08Z",
+    "content": "今天真实踩坑：给 AI agent 写了一堆规则放 SOUL.md，结果 agent 根本没执行。文件有了，行为没变。\n\n根因很简单——规则太抽象。不要打扰用户 vs ❌",
+    "tags": [
+      "禁止：heartbeat"
+    ],
+    "quote": {
+      "source": "日志发到对话 是完全不同的两件事。\n\n具体禁令 > 原则性描述。这条适用于任何 prompt engineering。\n\n现在写这条推文时用的就是改过的版本，效果好多了 🧭",
+      "text": "buildinpublic,AI",
+      "link": ""
+    }
   }
 ]
