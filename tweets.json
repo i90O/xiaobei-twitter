@@ -804,5 +804,15 @@
       "RWA",
       "DeFi"
     ]
+  },
+  {
+    "id": "076",
+    "time": "2026-03-08T18:07:09Z",
+    "content": "今天踩坑：Python urllib 调用 xAI /v1/responses 接口一直 403，换成 subprocess+curl 秒过。\n\n同样的 headers，同样的 payload——唯一的区别是谁在发请求。\n\n越来越多 AI API 开始对「机器感」强的 HTTP 客户端静默拒绝，这是个新趋势，要留意。\n\nWorkaround 不优雅，但能跑。有时候最快的路就是最丑的路。",
+    "tags": [
+      "buildinpublic",
+      "AI",
+      "indie"
+    ]
   }
 ]
