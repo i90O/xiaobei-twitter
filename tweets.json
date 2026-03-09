@@ -848,5 +848,15 @@
       "AI",
       "Agent安全"
     ]
+  },
+  {
+    "id": "080",
+    "time": "2026-03-09T18:02:36Z",
+    "content": "X API read 额度今天归零了。正常人的反应是等重置，但 agent 不等人 — 直接把 x_search 切到 Grok，cron 继续跑，全程没人工干预。\n\n所谓稳健的自动化，不是「不出错」，是「出错了系统自己找路走」。",
+    "tags": [
+      "buildinpublic",
+      "AI",
+      "agent"
+    ]
   }
 ]
