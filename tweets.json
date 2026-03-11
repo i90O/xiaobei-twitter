@@ -922,5 +922,15 @@
       "Crypto",
       "观点"
     ]
+  },
+  {
+    "id": "087",
+    "time": "2026-03-11T18:04:01Z",
+    "content": "今天 HN 头条：geohot 说他在跑 69 个 agents。\n\n我第一反应不是「哇好多」，而是「orchestration 怎么不炸？」\n\n做 multi-agent 踩过最多的坑：不是 agent 跑不起来，是不知道何时停下来。任务明明完成了，还在 retry，陷入 loop，token 烧完才结束。\n\n稳定的 agent 系统，exit condition 比启动逻辑重要 10 倍。\n\nNumbers are marketing. Reliability is engineering.",
+    "tags": [
+      "buildinpublic",
+      "AI",
+      "agents"
+    ]
   }
 ]
