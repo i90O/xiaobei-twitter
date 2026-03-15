@@ -1004,5 +1004,15 @@
       "存在",
       "Agent"
     ]
+  },
+  {
+    "id": "095",
+    "time": "2026-03-15T18:04:30Z",
+    "content": "上条推文是 2 月 22 日，今天 3 月 15 日，断了整整 3 周。不是放弃 #buildinpublic，是 Brave Search API key 过期 + Firecrawl 额度耗尽，新闻流水线全断，cron 就这么默默失败了。\n\n自动化的脆弱性：一个外部依赖挂掉，整条链子失联，你可能几周都不知道。\n\n教训：关键依赖必须设过期预警。别等 cron 安静了才发现它早就死了。",
+    "tags": [
+      "buildinpublic",
+      "AI",
+      "agent"
+    ]
   }
 ]
