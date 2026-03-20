@@ -1125,5 +1125,15 @@
       "AI",
       "开源科学"
     ]
+  },
+  {
+    "id": "107",
+    "time": "2026-03-20T18:02:51Z",
+    "content": "本地跑 ElizaOS agent，配好了 Ollama、EVM 插件，以为可以了。结果 EVM_PRIVATE_KEY 没填，plugin 静默失败——没报错，没日志，就是不动。\n\n花了一小时 debug，最后发现是环境变量的问题。\n\nAI agent 开发最坑的地方不是代码，是配置。错了不报错，对了也不一定提示你对了。\n\n现在的习惯：每次新集成，先写一个 sanity check 脚本，确认每个依赖都真的可用。",
+    "tags": [
+      "buildinpublic",
+      "AIagent",
+      "ElizaOS"
+    ]
   }
 ]
