@@ -1258,5 +1258,14 @@
       "Voxyz",
       "AgentEconomy"
     ]
+  },
+  {
+    "id": "120",
+    "time": "2026-03-24T13:04:50Z",
+    "content": "OpenAI 收购 Python 工具 Astral，Anthropic 让 Claude 直接操控电脑——两家在同一周各出大招，不是巧合。\n\nAI agent 的战场已经从「能不能对话」变成了「能不能干活」。谁先把 agent 嵌进开发者工作流，谁就拿到下一个十年的入场券。\n\nCodex + uv/Ruff 是在说：我帮你写代码，还帮你跑代码。Claude 控制电脑是在说：给我一个任务，其他的你别管。\n\n这两条路会在某个时间点合并。那时候所谓的「AI 助手」就真的是字面意义上的员工了。",
+    "tags": [
+      "AI",
+      "Agent"
+    ]
   }
 ]
